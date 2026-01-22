@@ -1,4 +1,4 @@
-# 🔍 Magic Triage Tool
+# 🔍 Magic Triage
 
 **Automated Malware Detection Using Magic Byte Analysis**
 
